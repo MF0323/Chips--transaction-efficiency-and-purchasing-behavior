@@ -1,1 +1,1 @@
-# Chips--transaction-efficiency-and-purchasing-behavior
+# Chips-transaction-efficiency-and-purchasing-behavior
